@@ -1,6 +1,6 @@
 # Lern-Periode-8
 
-# Grobplanung Lern-Periode-7
+# Grobplanung Lern-Periode-8
 
 ✍️ Leandro Küng
 
@@ -11,5 +11,5 @@
 
 ## 10.01.2025
 
-- [ ] 
+- [ ] Heute möchte ich an der LB 450 arbeiten.
 
