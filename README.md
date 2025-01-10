@@ -11,5 +11,11 @@
 
 ## 10.01.2025
 
-- [ ] Heute möchte ich an der LB 450 arbeiten.
+- [X] Heute möchte ich an der LB 450 arbeiten.
 
+## 17.01.2025
+
+
+- [ ] Ich möchte am Modul 295 weiterarbeiten.
+- [ ] Ich möchte am Docker Modul weiterarbeiten.
+- [ ] Ich möchte an meiner Fortnite Website weiter machen.
