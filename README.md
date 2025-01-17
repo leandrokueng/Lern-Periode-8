@@ -13,9 +13,19 @@
 
 - [X] Heute möchte ich an der LB 450 arbeiten.
 
+Ich konnte die Teilaufgabe 4 und 5 machen.
+
 ## 17.01.2025
 
 
-- [ ] Ich möchte am Modul 295 weiterarbeiten.
-- [ ] Ich möchte am Docker Modul weiterarbeiten.
+- [X] Ich möchte am Modul 295 weiterarbeiten.
+- [X] Ich möchte am Docker Modul weiterarbeiten.
 - [ ] Ich möchte an meiner Fortnite Website weiter machen.
+
+Ich konnte am Modul 295 den Datenbankauftrag fertig machen.
+
+## 24.01.2025
+
+- [ ] Ich möchte die übrigen Aufträge des Moduls 295 noch machen
+- [ ] Ich möchte die übrigen Aufträge des Moduls 347 noch machen
+- [ ] Das Modul 114 will ich weiter machen
