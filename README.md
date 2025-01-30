@@ -26,6 +26,12 @@ Ich konnte am Modul 295 den Datenbankauftrag fertig machen.
 
 ## 24.01.2025
 
-- [ ] Ich möchte die übrigen Aufträge des Moduls 295 noch machen
-- [ ] Ich möchte die übrigen Aufträge des Moduls 347 noch machen
-- [ ] Das Modul 114 will ich weiter machen
+- [X] Ich möchte die übrigen Aufträge des Moduls 295 noch machen
+- [X] Ich möchte die übrigen Aufträge des Moduls 347 noch machen
+- [X] Das Modul 114 will ich weiter machen
+
+## 31.01.2025
+
+- [ ] Ich möchte mich auf den Test für das Modul 347 vorbereiten und mir einen Lernzettel machen
+- [ ] Ich möchte die Moodle-Test vom HZ 1 vom Modul 114 alle abschliessen.
+- [ ] Ich möchte mich mit dem Projektantrag ausseinandersetzen vom Modul 295.
