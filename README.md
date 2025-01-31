@@ -30,8 +30,18 @@ Ich konnte am Modul 295 den Datenbankauftrag fertig machen.
 - [X] Ich möchte die übrigen Aufträge des Moduls 347 noch machen
 - [X] Das Modul 114 will ich weiter machen
 
+Heute habe ich viel am Modul 114 gearbeitet und die Aufträge fertig gemacht.
+
 ## 31.01.2025
 
-- [ ] Ich möchte mich auf den Test für das Modul 347 vorbereiten und mir einen Lernzettel machen
-- [ ] Ich möchte die Moodle-Test vom HZ 1 vom Modul 114 alle abschliessen.
-- [ ] Ich möchte mich mit dem Projektantrag ausseinandersetzen vom Modul 295.
+- [X] Ich möchte mich auf den Test für das Modul 347 vorbereiten und mir einen Lernzettel machen
+- [X] Ich möchte die Moodle-Test vom HZ 1 vom Modul 114 alle abschliessen.
+- [X] Ich möchte mich mit dem Projektantrag ausseinandersetzen vom Modul 295.
+
+Heute habe ich an meinem Online Lieferservice gearbeitet und dabei ein bisschen mit SQL gearbeitet. 
+
+## 21.02.2025
+
+- [ ] Heute möchte ich alle Moodle-Test im Modul 114 fertig machen.
+- [ ] Heute möchte ich mit dem HZ 2 im Modul 114 anfangen.
+- [ ] Heute möchte ich an der LB 295 arbeiten.
