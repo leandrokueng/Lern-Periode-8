@@ -40,8 +40,6 @@ Heute habe ich viel am Modul 114 gearbeitet und die Aufträge fertig gemacht.
 
 Heute habe ich an meinem Online Lieferservice gearbeitet und dabei ein bisschen mit SQL gearbeitet. 
 
-## 21.02.2025
+## Reflektion
 
-- [ ] Heute möchte ich alle Moodle-Test im Modul 114 fertig machen.
-- [ ] Heute möchte ich mit dem HZ 2 im Modul 114 anfangen.
-- [ ] Heute möchte ich an der LB 295 arbeiten.
+In dieser Lernperiode habe ich sehr viel an den Modulen gearbeitet weil ich einmal krank war und somit sehr viel nacholen musste.
